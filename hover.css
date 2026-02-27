@@ -1,0 +1,45 @@
+.s1{
+    background-color: rgb(13, 132, 15);
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    padding-right: 15px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+}
+
+.s1:hover{
+    background-color: red;
+}
+
+.s2{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+/* #i1::first-letter{
+    color: blue;
+} */
+
+/* #i1::first-line{
+    color:brown;
+} */
+
+/* #i1::after{
+    content:"hello";
+    color: blueviolet;
+} */
+
+/* #i1::before{
+
+        content:"hi";
+    } */
+
+/* #i1::selection{
+    color: brown;
+} */
+/* #i1:last-child{
+    color: azure;
+} */
+
